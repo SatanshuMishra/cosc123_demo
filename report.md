@@ -5,6 +5,7 @@
 This is a normal body text
 
 If you want to **bold** a text, surround the text with "**"
+If you want to *italics* a text, surround the text with "*".
 
 If you want to make a list, use "-":
 - List Item A
